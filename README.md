@@ -1,0 +1,2 @@
+# NumPy Interview Questions: From Basics to Advanced
+Welcome to the "NumPy Interview Questions" repository! This comprehensive collection comprises 50 thoughtfully curated questions that cover the entire spectrum of NumPy – from fundamental concepts to advanced techniques. Whether you're a novice looking to solidify your foundational understanding or an experienced practitioner seeking to deepen your expertise, these questions are designed to challenge and enrich your knowledge of NumP
